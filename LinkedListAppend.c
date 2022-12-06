@@ -1,5 +1,5 @@
 // Lab 8: Dynamic array implemented using a linked list.
-// UIC CS 211, Fall 2022, Kidane and Reed
+// UIC CS 211, Fall 2022, Esat Duman 
 #include <stdio.h>
 #include <stdlib.h>
 
